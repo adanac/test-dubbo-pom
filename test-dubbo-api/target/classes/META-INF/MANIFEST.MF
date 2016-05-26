@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: allen
+Build-Jdk: 1.8.0_60
+Specification-Title: test-dubbo-api
+Specification-Version: 1.0.0
+Specification-Vendor: Alibaba
+Implementation-Title: test-dubbo-api
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.adanac.demo
+Implementation-Vendor: Alibaba
+Created-By: Maven Integration for Eclipse
+
